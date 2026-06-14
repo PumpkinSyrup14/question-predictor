@@ -98,4 +98,5 @@ question-predictor/
  
 ## Built By
  
-[Sami Farhan](https://github.com/PumpkinSyrup14) — 2nd year CS student building tools that actually solve real problems.[linkedIn](https://www.linkedin.com/in/samifarhansyed)
+[Sami Farhan](https://github.com/PumpkinSyrup14) — 2nd year CS student building tools that actually solve real problems.
+[linkedIn](https://www.linkedin.com/in/samifarhansyed)
