@@ -4,7 +4,7 @@ import UploadForm from "./UploadForm";
 import Results from "./Results";
 import "./index.css";
 
-const API_URL = "http://localhost:8000";
+const API_URL = "https://qpred-backend.onrender.com";
 
 function ErrorState({ message, onRetry }) {
   return (
